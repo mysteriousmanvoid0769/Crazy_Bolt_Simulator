@@ -1,4 +1,4 @@
-**# 🚕 Crazy Prius Simulator in Azerbaijan (на Qt)
+**🚕 Crazy Prius Simulator in Azerbaijan (на Qt)
 
 ## 📝 Описание
 
